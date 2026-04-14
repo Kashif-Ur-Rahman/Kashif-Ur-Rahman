@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Kashif-Ur-Rahman&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/kashif-ur-rahman/" target="_blank">
     <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -39,25 +39,25 @@
 
 ---
 
-### 🏆 GitHub Achievements
+### 🏆 projects Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kashif-Ur-Rahman&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kashif-Ur-Rahman&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Kashif-Ur-Rahman&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kashif-Ur-Rahman&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
