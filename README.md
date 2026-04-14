@@ -39,9 +39,24 @@
 
 ---
 
-### 🏆 projects Achievements
+### 🏆 Projects Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kashif-Ur-Rahman&theme=tokyonight&no-frame=true&row=1&column=6" />
+  🚀 Developed and deployed real-world production applications
+</p>
+
+<p align="center">
+  <a href="https://epicx.co.uk" target="_blank">
+    <img src="https://img.shields.io/badge/EpicX-Live-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  
+  <a href="https://tcrproperties.ae" target="_blank">
+    <img src="https://img.shields.io/badge/TCR%20Properties-Live-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  
+  <a href="https://lumunate.com" target="_blank">
+    <img src="https://img.shields.io/badge/Lumunate-In%20Progress-orange?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
