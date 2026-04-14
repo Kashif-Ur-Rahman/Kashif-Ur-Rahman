@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js+%7C+TypeScript&center=true&width=520&height=50">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Kashif-Ur-Rahman&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
