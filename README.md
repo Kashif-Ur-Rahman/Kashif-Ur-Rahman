@@ -20,8 +20,6 @@
 
 ---
 
----
-
 ### 🌐 Social Media Links
 <p align="left">
   <a href="https://www.linkedin.com/in/kashif-ur-rahman/" target="_blank">
@@ -34,14 +32,10 @@
 
 ---
 
----
-
 ### 🛠️ Skills & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,express,postgres,html,css,git,postman,linux" />
 </p>
-
----
 
 ---
 
@@ -52,16 +46,12 @@
 
 ---
 
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ---
 
