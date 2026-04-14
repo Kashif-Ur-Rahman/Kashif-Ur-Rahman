@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://epicx.co.uk" target="_blank">
-    <img src="https://img.shields.io/badge/EpicX-Live-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/epicX-Live-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   
   <a href="https://tcrproperties.ae" target="_blank">
