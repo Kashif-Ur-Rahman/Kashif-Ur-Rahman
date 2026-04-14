@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">👋 Welcome to my GitHub World</h1>
 
-<!--
-**Kashif-Ur-Rahman/Kashif-Ur-Rahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 Building scalable solutions with creativity and precision
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Engineer;React+%7C+Next.js+%7C+Node.js&center=true&width=500&height=50">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🔗 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/kashif-ur-rahman/
+
+
+### 🛠️ Skills & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,ts,mongodb,express,git" />
+</p>
+
+
+### 📊 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+
+### 📫 Contact Me
+- 📧 kashiikhan377@email.com
