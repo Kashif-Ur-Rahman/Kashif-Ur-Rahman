@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js%+TypeScript&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+%7C+Next.js+%7C+Node.js+%7C+TypeScript&center=true&width=500&height=50">
 </p>
 
 
