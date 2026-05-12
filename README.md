@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/TCR%20Properties-Live-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   
-  <a href="https://lumunate.com" target="_blank">
+  <a href="https://lumunate-website.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Lumunate-In%20Progress-orange?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
