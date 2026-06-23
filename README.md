@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to my GitHub World</h1>
 
 <p align="center">
-🚀 Passionate Software Engineer with 1.5+ years of experience building scalable, high-performance, and user-centric web applications using modern JavaScript technologies.
+🚀 Passionate Software Engineer with 2 years of experience building scalable, high-performance, and user-centric web applications using modern JavaScript technologies.
 </p>
 
 <p align="center">
